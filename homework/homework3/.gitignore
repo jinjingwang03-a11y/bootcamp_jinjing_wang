@@ -1,0 +1,33 @@
+# Data files (keep processed outputs but ignore large datasets)
+/data/processed/*.png
+/data/processed/*.jpg
+/data/processed/*.jpeg
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
