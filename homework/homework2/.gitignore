@@ -1,6 +1,9 @@
 # Environment variables
 .env
 
+# Data directory
+/data/
+
 # Python
 __pycache__/
 *.py[cod]
