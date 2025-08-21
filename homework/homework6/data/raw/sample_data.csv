@@ -1,0 +1,8 @@
+Age,Salary,Department,Experience
+25.0,50000.0,HR,1.0
+30.0,60000.0,IT,5.0
+,55000.0,Finance,3.0
+40.0,,IT,10.0
+35.0,58000.0,Finance,
+,62000.0,,
+50.0,,IT,12.0
